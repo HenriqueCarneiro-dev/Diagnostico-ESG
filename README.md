@@ -1,4 +1,4 @@
-# Guardião ESG
+# Diagnostico ESG
 
 Diagnóstico simples para donos de restaurantes entenderem seu nível de sustentabilidade e receberem um plano de ação prático, sem termos técnicos.
 
